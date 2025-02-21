@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lauria</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a final-year engineering student specialising in robotics.</h3>
 
 - 📫 How to reach me **lauria.castanier@cpe.fr**
 
